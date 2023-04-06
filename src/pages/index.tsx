@@ -1,11 +1,8 @@
 import * as React from "react";
+import Hero from "../components/Hero";
 
 const IndexRoute = () => {
-  return (
-    <main>
-      <h1>Index</h1>
-    </main>
-  );
+  return <Hero />;
 };
 
 export default IndexRoute;
