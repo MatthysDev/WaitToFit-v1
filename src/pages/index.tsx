@@ -6,3 +6,4 @@ const IndexRoute = () => {
 };
 
 export default IndexRoute;
+
