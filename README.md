@@ -14,3 +14,14 @@ WaitForFit is a web application that allows you to track your fitness goals and 
 git add .
 git cz
 ```
+
+## Tools
+
+- [React](https://reactjs.org/)
+- [Gatsby](https://www.gatsbyjs.org/)
+- [GraphQL](https://graphql.org/)
+- [Jest](https://jestjs.io/)
+- [Storybook](https://storybook.js.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Prettier](https://prettier.io/)
+- [EsLint](https://eslint.org/)
